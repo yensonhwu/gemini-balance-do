@@ -26,7 +26,7 @@ const handleOPTIONS = async () => {
 	});
 };
 
-const BASE_URL = 'https://generativelanguage.googleapis.com';
+const BASE_URL = 'https://grsaiapi.com';
 const API_VERSION = 'v1beta';
 const API_CLIENT = 'genai-js/0.21.0';
 
